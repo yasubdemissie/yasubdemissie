@@ -5,7 +5,7 @@ I am a passionate Full Stack Web Developer with a broad set of skills in various
 ## 👀 Interests
 - Full Stack Development
 - React
-- Node.js
+- Next JS
 - Java
 
 ## 🌱 Currently Learning
