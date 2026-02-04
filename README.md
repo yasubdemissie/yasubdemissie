@@ -77,7 +77,7 @@ I love learning new technologies, improving code quality, and solving complex pr
 
 * GitHub: [https://github.com/yasubdemissie](https://github.com/yasubdemissie)
 * LinkedIn: [https://linkedin.com/in/yasubdemissie](https://linkedin.com/in/yasubdemissie)
-* Email: [your.email@example.com](mailto:yasdam777@gmail.com)
+* Email: [yasdam777@gmail.com](mailto:yasdam777@gmail.com)
 * Website: 
 
 ---
