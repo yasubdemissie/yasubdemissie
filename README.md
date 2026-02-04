@@ -75,8 +75,8 @@ I love learning new technologies, improving code quality, and solving complex pr
 
 🤝 Let's Connect
 
-* GitHub: [https://github.com/YOUR_USERNAME](https://github.com/yasubdemissie)
-* LinkedIn: [https://linkedin.com/in/YOUR_USERNAME](https://linkedin.com/in/yasubdemissie)
+* GitHub: [https://github.com/yasubdemissie](https://github.com/yasubdemissie)
+* LinkedIn: [https://linkedin.com/in/yasubdemissie](https://linkedin.com/in/yasubdemissie)
 * Email: [your.email@example.com](mailto:yasdam777@gmail.com)
 * Website: 
 
